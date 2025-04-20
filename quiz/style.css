@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right; #f6d5f7, #fbe9d7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.7);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    font-size: 3em;
+    color: #b24592;
+}
+
+.subtitle {
+    font-size: 1.2em;
+    margin: 10px 0 30px;
+    color: #5c5c5c;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 1.1em;
+    border: none;
+    border-radius: 30px;
+    background: #ff7e5f;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+button {
+    background: #b24592;
+}
+/* Animation douce d'entrèe */
+@keyframes fadeIn {
+    from {opacity: : 0; transform: translateY(20px); }
+    to {opacity: 1; transform: translateY(0); }
+}
+
+#questionContainer {
+    animation: fadeIn 0.5s ease-in;
+}

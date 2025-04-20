@@ -1,0 +1,51 @@
+[
+  {"question": "Quelle est la chose qui fais battre mon à chaque fois?",
+"option": [
+    "Ton sourir",
+    "Quand tu me prends la main",
+    "Ton parfum",
+    "Juste un regard de toi",
+    ],
+    "answer": "Toutes,.. mais surtout toi."
+   },
+   {
+    "question":"Si on devrait partir en week-end en amoureux, ou aimerais-je aller ?",
+    "option":[
+        "Une cabane perdu dans la foret",
+        "Une plage au coucher du soleil",
+        "Une ville romantique comme paris",
+        "Peu importe, tant que c'est avec toi"
+    ],
+    "answer":"Peu importe, tant que c'est avec toi"
+   },
+   {
+    "question":"Quelle est ma façon preferée de dire 'je t'aime' ?",
+    "option": [
+        "Par message le soir",
+        "Avec un regard silencieux",
+        "En te serrant fort",
+        "Par une petite attention sans mot",
+    ],
+    "answer": "En te serrant fort"
+   },
+   {
+    "question": "Quand je pense à notre avenir, je nous imagine...",
+    "option": [
+        "En train de rire ensemble dans la cuisine",
+        "En voyage autour du monde",
+        "Main dans la main dans un petit chez-nous",
+        "Juste heureux, peu importe ou"
+    ],
+    "answer": "Juste heureux, peu importe ou"
+   },
+   {
+    "question": "Qelle est ma plus grande peur en amour ?",
+    "option": [
+        "Te perdre",
+        "Que tu m'oublies",
+        "Ne pas etre à la hauteur",
+        "Qu'on se dise moins "je t'aime" un jour"
+    ],
+    "answer":"TE perdre"
+   }
+]
